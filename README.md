@@ -47,4 +47,4 @@ El plan de estudios aplica Python de manera directa en los pilares más demandad
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia **MIT**. Consulta el archivo `LICENSE` para más detalles. #hatch13 #PoetryInCode.
